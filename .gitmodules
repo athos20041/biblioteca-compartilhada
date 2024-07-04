@@ -1,0 +1,3 @@
+[submodule "libs/biblioteca-compartilhada"]
+	path = libs/biblioteca-compartilhada
+	url = https://github.com/athos20041/biblioteca-compartilhada.git
